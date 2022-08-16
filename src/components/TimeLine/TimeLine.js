@@ -46,9 +46,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I'm passionate about the innovation of DeFi to disrupt the archaic financial industry. 
-      I would like to work with an amazing international team for Blockchain! 
-      Feel free to reach out to me at d0lbangi13@naver.com
+      I'm passionate about the innovation of Blockchain to disrupt the archaic financial industry. 
+      I would like to work with an amazing international team who are always keen on having a conversation around blockchain 
+      and crypto space so feel free to reach out me at: d0lbangi13@naver.com
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

@@ -10,7 +10,7 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:010-8875-4587">010-8875-4587</LinkItem>
+          <LinkItem href="tel:010-8875-4587">82-10-8875-4587 (Mobile)</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>

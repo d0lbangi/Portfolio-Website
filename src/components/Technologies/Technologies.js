@@ -20,8 +20,19 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experienced with <br />
-            Html CSS Javascript
-            Next.js React.js
+            Html5 Taliwind CSS3 Javascript
+            Next.js React Node.js
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+
+      <ListItem>
+        <DiZend size="3rem" />
+        <ListContainer>
+          <ListTitle>Blockchain</ListTitle>
+          <ListParagraph>
+            Experienced with <br />
+            Solidity Hardhat Truffle MetaMask Ethers
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -33,17 +44,6 @@ const Technologies = () => (
           <ListParagraph>
             Experienced with <br />
             Sanity
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-
-      <ListItem>
-        <DiZend size="3rem" />
-        <ListContainer>
-          <ListTitle>Blockchain</ListTitle>
-          <ListParagraph>
-            Experienced with <br />
-            SmartContract ERC20 ERC721A
           </ListParagraph>
         </ListContainer>
       </ListItem>
