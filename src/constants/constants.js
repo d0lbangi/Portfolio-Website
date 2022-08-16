@@ -41,7 +41,7 @@ export const projects = [
     image: '/images/portfolio.png',
     tags: ['Next JS', 'Taliwind CSS', 'React'],
     source: 'https://github.com/d0lbangi/Portfolio-Website',
-    visit: 'https://portfolio-website-livid-seven.vercel.app/',
+    visit: 'https://portfolio-website-eight-blush.vercel.app/',
     id: 4,
   },
   {
